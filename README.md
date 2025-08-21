@@ -15,3 +15,10 @@ python seedling-fo.py <path-to-images-dir>
 ```
 
 Additional flags exist as well.
+Currently, you may:
+- specify a desired `--confidence` level for open-ended prediction
+- use a `--device` (e.g. `cuda`)
+- use `--custom-labels` pointint to a CSV with a column of custom labels to predict amonth
+- specify a `--dataset-name` if one has already been executed
+- `--force-reprocess` to remove dataset contents with newly processed data
+
