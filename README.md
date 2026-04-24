@@ -2,6 +2,8 @@
 ## Seedling FiftyOne
 An introductory approach to using a FiftyOne dataset interface with seedling images using BioCLIP 2 classification attempts is available in `seedling-fo.py`.
 
+Project repo for seedling identification during [FuncaPalooza 2025]([url](https://github.com/Imageomics/FuncaPalooza-2025/wiki)).
+
 To set up:
 - Create and activate an environment.
 - Install libraries in `seedling-fo_requirements.txt` with e.g.:
